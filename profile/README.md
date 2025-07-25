@@ -6,7 +6,7 @@
 
 ## 🚀 What is Creeble?
 
-**Creeble** transforms your Notion databases into production-ready REST APIs with real-time sync, advanced caching, and enterprise-grade security. No coding required!
+**Creeble** transforms your Notion databases into production-ready REST/GraphQL APIs with real-time sync, advanced caching, and enterprise-grade security. No coding required!
 
 ### ✨ Key Features
 
